@@ -1,6 +1,55 @@
 div{
-    background-color: aqua;
-    padding: 20px;
-    font-weight: bold;
-    margin: 20px;
+  margin-bottom: 10px;
 }
+
+.avengers{
+    color: white;
+    padding: 10px;
+    background-image: url(avengers.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+}
+.ultron{
+    color: white;
+    padding: 10px;
+    background-image: url(ultron.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+}
+.war{
+    color: black;
+    padding: 10px;
+    background-image: url(infinitywar.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+}
+.endgame{
+    color: white;
+    padding: 10px;
+    background-image: url(endgame.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+
+.another{
+    background-color: white;
+    color: white;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/* <!--design a webpage with multiple selectors/divs
+apply css styles to set different background colours, images, repeats, position and sizes for each section --> */
